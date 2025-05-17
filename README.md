@@ -28,4 +28,4 @@ Standard PINNs use automatic differentiation to compute derivatives, which often
 
 ![Result_for_Approach_1](Result.png)
 
-![Result_for_Approach_1](Result_1.png)
+![Result_for_Approach_1](Result 2.png)
