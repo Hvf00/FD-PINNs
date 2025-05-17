@@ -24,7 +24,7 @@ Standard PINNs use automatic differentiation to compute derivatives, which often
 7. Post-training, velocity and pressure fields as well as streamlines are visualized.
 
 
-## Result
+## Result for Re=1000
 
 ![Result_for_Approach_1](Result.png)
 
